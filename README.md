@@ -1,6 +1,8 @@
 # opengl-project-classroom-
-OpenGL project 3D Classroom using c++
+OpenGL project 3D Classroom using c++.
 
+
+Here in the project,I created a 3D Classroom and place a viewer with 3D projection function. Some ligthing property of opengl were also done here.
 
 open 1607022classroomm.cpp file.
 run it.
